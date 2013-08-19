@@ -33,13 +33,13 @@ Equipe de Desenvolvimento
 - BOO		- José Filho
 
 ### Desenvolvedores
-- I am Cold	- Márcio Montenegro
 - Yum		- Luann Peixe
 - Wolf		- João Victor Senos
 - Golen Maker	- Ligleyson Warnielle
 - jBK		- José Goís
 - Cainho	- Caio Mateus
 - BeckDeveloper - Valderson Rodrigues
+- Schrwaizer
 	
 ### Estágiários/Aprendizes
 - Rayzir	- Guilherme Fontenele
@@ -48,3 +48,4 @@ Equipe de Desenvolvimento
 - Aster0id		- Bruno Soares
 - Ziegifried	- Yuri Butzke
 - Linne Ribeiro
+- TBanner	- Mateus Santos
